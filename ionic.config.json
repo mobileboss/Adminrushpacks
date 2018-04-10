@@ -1,0 +1,8 @@
+{
+  "name": "adminrushpacks",
+  "app_id": "7ae6496d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
